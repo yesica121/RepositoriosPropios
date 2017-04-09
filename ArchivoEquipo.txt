@@ -1,0 +1,7 @@
+hola!!!!!
+
+Este archivo fue creado en el local Git
+
+ Ejercicio Equipo de Trabajo.
+
+Se realiza Commit
